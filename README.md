@@ -1,4 +1,28 @@
+Welcome to the *Unflinching Order*, ambitious one.
 
+This is an opensource minecraft mod project *forged* by Cultist Simulator fans using Neo*forge* mod development kit and template.
+
+If you are interested in this project, feel free to leave a message in the [Discussion](https://github.com/orgs/Ediacarian-Studio/discussions) section, provide suggestions, and share your vision for what kind of game mechanics you would like to see implemented in this module project. We will strive to achieve the exploration experience of the Noon World in Minecraft.
+
+If you would like to participate in the project development, you can email to the project leader.
+
+Praise to The Forge of Days!
+
+----------
+
+欢迎来到不屈教团，有志者。
+
+这是一个开源MC模组项目，由密教模拟器粉丝使用Neoforge的MDK模板创建。
+
+如果你对这个项目感兴趣，欢迎在Issue栏目下留言，提供建议以及发表对想要本模组项目实现何种游戏机制的愿景。我们会努力去实现在Minecraft里的正午世界探索体验。
+
+如果你想参与项目开发，可以发送Email给项目负责人。
+
+赞美白日铸炉！
+
+----------
+
+# NeoForge mod development infos
 Installation information
 =======
 
