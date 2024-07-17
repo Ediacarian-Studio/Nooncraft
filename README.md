@@ -14,7 +14,7 @@ Praise to The Forge of Days!
 
 这是一个开源MC模组项目，由密教模拟器粉丝使用Neoforge的MDK模板创建。
 
-如果你对这个项目感兴趣，欢迎在Issue栏目下留言，提供建议以及发表对想要本模组项目实现何种游戏机制的愿景。我们会努力去实现在Minecraft里的正午世界探索体验。
+如果你对这个项目感兴趣，欢迎在[Discussion](https://github.com/orgs/Ediacarian-Studio/discussions)栏目下留言，提供建议以及发表对想要本模组项目实现何种游戏机制的愿景。我们会努力去实现在Minecraft里的正午世界探索体验。
 
 如果你想参与项目开发，可以发送Email给项目负责人。
 
